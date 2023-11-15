@@ -13,10 +13,7 @@
 
 📩 E-mail: dkdnmju@naver.com <br>
 💻 Github: https://github.com/dpftlel21 <br>
-<a href="https://velog.io/@dpftlel21">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
+<a href="https://velog.io/@dpftlel21"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
 
 
 
