@@ -9,7 +9,7 @@
 
 ### ☎️ Contact 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge](https://simpleicons.org/icons/protonmail.svg/#6D4AFF?style=plastic&logo=protonmail&logoColor=#6D4AFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://simpleicons.org/icons/protonmail.svg/#6D4AFF?style=plastic&logo=protonmail&logoColor=#6D4AFF"/></a>
 
 📩 E-mail: dkdnmju@naver.com <br>
 💻 Github: https://github.com/dpftlel21 <br>
