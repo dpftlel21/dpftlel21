@@ -7,12 +7,9 @@
 3️⃣ Hobby : 헬스, 축구, 풋살, 음악 감상 <br>
 4️⃣ My Favorite : 운동, 강아지, 음악 감상, 새로운 것에 대한 도전 <br>
 
+
 ### ☎️ Contact 
-
-
-
-📩 E-mail: dkdnmju@naver.com <br>
-💻 Github: https://github.com/dpftlel21 <br>
+<a href="https://www.instagram.com/2noo_o/"><img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
 <a href="https://github.com/dpftlel21"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
 <a href="https://velog.io/@dpftlel21"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
 
